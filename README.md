@@ -12,3 +12,5 @@ The "FORMAL_RSCU" script calculates the relative synonymous codon usage of phage
 The "FORMAL_tAI" script calculates the tRNA adapation index of phages and their hosts using the host tRNA pool and compares the tAI of the phages to the tAI of the host(s). The ∆tAI is then calculated and can be used to compare phages based on tRNA group or lifestyle. Violin plots compare tAI between host and phages, as well as violin plots to compare ∆tAI of phages based on tRNA group or lifestyle.
 
 Options for statistical analyses are provided in each script.
+
+If you have any questions or issues, please feel free to contact me at nicole.ross@ufl.edu :) 
